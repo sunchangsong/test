@@ -1,4 +1,32 @@
+dsfsdfsdfsdfsdf
+dsfsd
+fsd
+fsd
+fsdf
 sgssdfsdfsdf
 sdfsd
 sdfsdfdsfsdf
+<<<<<<< HEAD
 sadfasdas
+=======
+asdasd
+a
+sdas
+d
+asd
+as
+das
+adfasfasdasfwq
+
+adfasfasdasfwq
+dfsd
+fsd
+f
+sdf
+sd
+f
+sdf
+sd
+f
+sdf
+>>>>>>> master
